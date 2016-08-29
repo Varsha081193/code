@@ -1,0 +1,34 @@
+Status, Name, Bay, Model, Processor_Type, Memory(Mb), Serial_Number, Mezzanine_Slot_Number, Mezzanine_Card_Model, RomVersion, iLO_IP_Address, iLO_Firmware_Version, Part_Number
+Warning,ILOSGH503YNWV,0,ProLiant DL380 Gen9,Intel(R) Xeon(R) CPU E5-2603 v3 @ 1.60GHz,262144,SGH503YNWV,,,P89 07/20/2015,ILOSGH503YNWV,2.30 Aug 19 2015,719064-B21
+OK,172.18.6.15,0,ProLiant DL360p Gen8,Intel(R) Xeon(R) CPU E5-2650L 0 @ 1.80GHz,262144,MXQ1000207,,,P71 02/10/2014,172.18.6.15,1.30 Jul 02 2013,603718-F21
+OK,172.18.6.31,0,ProLiant DL360 Gen9,Intel(R) Xeon(R) CPU E5620 @ 2.40GHz,32768,MXQ1000208,,,P89 v1.30,172.18.6.31,2.20 Nov 01 2014,603718-F21
+OK,172.18.6.16,0,ProLiant DL380p Gen8,Intel(R) Xeon(R) CPU E5620 @ 2.40GHz,32768,MXQ1000307,,,P70 02/10/2014,172.18.6.16,1.30 Jul 02 2013,603718-G21
+OK,172.18.6.32,0,ProLiant DL380p Gen8,Intel(R) Xeon(R) CPU E5620 @ 2.40GHz,32768,MXQ1020307,,,P70 09/30/2010,172.18.6.32,2.20 Nov 01 2014,603718-G21
+OK,Vegas-Bladesystem1, bay 1,1,ProLiant BL660c Gen9,Quad-Core Intel Xeon @ 2.0GHz,16384,SGH100X7RN,1 2 3,  ,I38 v1.30 08/03/2014,172.18.6.1,2.20 Nov 01 2014,679118-B21
+Critical,Vegas-Bladesystem2, bay 1,1,ProLiant BL660c Gen9,Quad-Core Intel Xeon @ 2.0GHz,16384,SGH102X7RN,1 2 3,  ,I32 08/03/2014,172.18.6.17,1.30 Jul 02 2013,679118-B21
+Critical,Vegas-Bladesystem1, bay 2,2,ProLiant BL660c Gen9,Quad-Core Intel Xeon @ 2.0GHz,16384,SGH101X7RN,1 2 3,  ,I32 08/03/2014,172.18.6.2,1.30 Jul 02 2013,679118-B21
+OK,Vegas-Bladesystem2, bay 2,2,ProLiant BL660c Gen9,Quad-Core Intel Xeon @ 2.0GHz,16384,SGH103X7RN,1 2 3,  ,I38 v1.30 08/03/2014,172.18.6.18,2.20 Nov 01 2014,679118-B21
+OK,Vegas-Bladesystem1, bay 3,3,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH100X8RN,1 2, ,I31 08/02/2014,172.18.6.3,1.30 Jul 02 2013,603718-C21
+OK,Vegas-Bladesystem2, bay 3,3,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH106X8RN,1 2, ,I31 09/30/2011,172.18.6.19,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem1, bay 4,4,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH101X8RN,1 2, ,I31 08/02/2014,172.18.6.4,1.30 Jul 02 2013,603718-C21
+OK,Vegas-Bladesystem2, bay 4,4,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH107X8RN,1 2, ,I31 09/30/2011,172.18.6.20,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem1, bay 5,5,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH102X8RN,1 2, ,I31 08/02/2014,172.18.6.5,1.30 Jul 02 2013,603718-C21
+OK,Vegas-Bladesystem2, bay 5,5,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH108X8RN,1 2, ,I31 09/30/2011,172.18.6.21,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem1, bay 6,6,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH103X8RN,1 2, ,I31 09/30/2011,172.18.6.6,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem2, bay 6,6,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH109X8RN,1 2, ,I31 09/30/2011,172.18.6.22,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem1, bay 7,7,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH104X8RN,1 2, ,I31 09/30/2011,172.18.6.7,1.30 Jul 02 2013,603718-C21
+OK,Vegas-Bladesystem2, bay 7,7,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH110X8RN,1 2, ,I31 09/30/2011,172.18.6.23,2.20 Nov 01 2014,603718-C21
+OK,Vegas-Bladesystem1, bay 8,8,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH105X8RN,1 2, ,I31 09/30/2011,172.18.6.8,1.30 Jul 02 2013,603718-C21
+OK,Vegas-Bladesystem2, bay 8,8,ProLiant BL460c Gen8,Intel(R) Xeon(R) Processor E5620 @ 2.4GHz,32768,SGH111X8RN,1 2, ,I31 09/30/2011,172.18.6.24,2.20 Nov 01 2014,603718-C21
+Critical,Vegas-Bladesystem1, bay 11,11,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH100X5RN,1 2, ,I36 08/26/2014,172.18.6.9,1.30 Jul 02 2013,740039-001
+OK,Vegas-Bladesystem2, bay 11,11,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH106X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.25,2.20 Nov 01 2014,740039-001
+Critical,Vegas-Bladesystem1, bay 12,12,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH101X5RN,1 2, ,I36 08/26/2014,172.18.6.10,1.30 Jul 02 2013,740039-001
+OK,Vegas-Bladesystem2, bay 12,12,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH107X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.26,2.20 Nov 01 2014,740039-001
+Critical,Vegas-Bladesystem1, bay 13,13,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH102X5RN,1 2, ,I36 08/26/2014,172.18.6.11,1.30 Jul 02 2013,740039-001
+OK,Vegas-Bladesystem2, bay 13,13,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH108X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.27,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem1, bay 14,14,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH103X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.12,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem2, bay 14,14,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH109X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.28,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem1, bay 15,15,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH104X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.13,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem2, bay 15,15,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH110X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.29,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem1, bay 16,16,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH105X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.14,2.20 Nov 01 2014,740039-001
+OK,Vegas-Bladesystem2, bay 16,16,ProLiant BL460c Gen9,12-Core Intel(R) Corporation Xeon @ 2.4GHz,8192,SGH111X5RN,1 2, ,I36 v1.30 08/26/2014,172.18.6.30,2.20 Nov 01 2014,740039-001

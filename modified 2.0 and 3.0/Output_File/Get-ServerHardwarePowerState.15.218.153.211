@@ -1,0 +1,34 @@
+Server_Name,Power_On,Power_Off
+172.18.6.31, - ,Off
+172.18.6.32, - ,Off
+172.18.6.15, - ,Off
+172.18.6.16, - ,Off
+ILOSGH503YNWV, - ,Off
+Vegas-Bladesystem1, bay 2, - ,Off
+Vegas-Bladesystem1, bay 3, - ,Off
+Vegas-Bladesystem1, bay 1,On,-
+Vegas-Bladesystem1, bay 4,On,-
+Vegas-Bladesystem1, bay 6, - ,Off
+Vegas-Bladesystem1, bay 5, - ,Off
+Vegas-Bladesystem1, bay 16, - ,Off
+Vegas-Bladesystem1, bay 7, - ,Off
+Vegas-Bladesystem1, bay 8, - ,Off
+Vegas-Bladesystem1, bay 15, - ,Off
+Vegas-Bladesystem1, bay 11, - ,Off
+Vegas-Bladesystem1, bay 14, - ,Off
+Vegas-Bladesystem1, bay 12, - ,Off
+Vegas-Bladesystem1, bay 13, - ,Off
+Vegas-Bladesystem2, bay 1, - ,Off
+Vegas-Bladesystem2, bay 3, - ,Off
+Vegas-Bladesystem2, bay 4, - ,Off
+Vegas-Bladesystem2, bay 2, - ,Off
+Vegas-Bladesystem2, bay 5, - ,Off
+Vegas-Bladesystem2, bay 8, - ,Off
+Vegas-Bladesystem2, bay 7, - ,Off
+Vegas-Bladesystem2, bay 12, - ,Off
+Vegas-Bladesystem2, bay 6, - ,Off
+Vegas-Bladesystem2, bay 13, - ,Off
+Vegas-Bladesystem2, bay 14, - ,Off
+Vegas-Bladesystem2, bay 11, - ,Off
+Vegas-Bladesystem2, bay 15, - ,Off
+Vegas-Bladesystem2, bay 16, - ,Off

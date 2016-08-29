@@ -1,0 +1,33 @@
+hostname,serverprofile_name,sptname
+172.18.6.15,ESX-Server1,spt5
+172.18.6.16,ESX-Server2,spt6
+172.18.6.31,ESX-Server3,spt4
+172.18.6.32,ESX-Server4,spt6
+"Encl1, bay 1",ESX-Server5,SPT3
+"Encl1, bay 2",ESX-Server6,Spt3
+"Encl1, bay 3",ESX-Server7,SPT1
+"Encl1, bay 4",ESX-Server8,SPT1
+"Encl1, bay 5",ESX-Server9,SPT1
+"Encl1, bay 6",ESX-Server10,SPT1
+"Encl1, bay 7",ESX-Server11,SPT1
+"Encl1, bay 8",ESX-Server12,SPT1
+"Encl1, bay 11",ESX-Server13,SPT2
+"Encl1, bay 12",ESX-Server14,SPT2
+"Encl1, bay 13",ESX-Server15,SPT2
+"Encl1, bay 14",ESX-Server16,SPT2
+"Encl1, bay 15",ESX-Server17,SPT2
+"Encl1, bay 16",ESX-Server18,SPT2
+"Encl2, bay 1",ESX-Server19,spt3
+"Encl2, bay 2",ESX-Server20,spt3
+"Encl2, bay 3",ESX-Server21,SPT1
+"Encl2, bay 4",ESX-Server22,SPT1
+"Encl2, bay 5",ESX-Server23,SPT1
+"Encl2, bay 6",ESX-Server24,SPT1
+"Encl2, bay 7",ESX-Server25,SPT1
+"Encl2, bay 8",ESX-Server26,SPT1
+"Encl2, bay 11",ESX-Server27,SPT2
+"Encl2, bay 12",ESX-Server28,SPT2
+"Encl2, bay 13",ESX-Server29,SPT2
+"Encl2, bay 14",ESX-Server30,SPT2
+"Encl2, bay 15",ESX-Server31,SPT2
+"Encl2, bay 16",ESX-Server32,SPT2

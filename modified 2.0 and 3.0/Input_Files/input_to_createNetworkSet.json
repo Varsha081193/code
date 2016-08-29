@@ -1,0 +1,45 @@
+{
+	"type": "network-setV300",
+	"description": "List of network sets",
+	"NetworkSets": [
+		{
+			"name": "ESX_Network_Set1",
+			"networks":[
+						
+						"eth1",
+						"Oneview_110",
+						"Oneview_111",
+						"Oneview_112",
+						"Oneview_113",
+						"Oneview_114",
+						"Oneview_115",
+						"Oneview_116",
+						"Oneview_117",
+						"Oneview_118",
+						"Oneview_119",
+						"Oneview_120"
+												
+						
+					],
+			"preferredBandwidth": 5000,
+			"maximumBandwidth": 8000
+		},
+		{
+			"name": "ESX_Network_Set2",
+			"networks":[
+						
+						
+						"Oneview_121",
+						"Oneview_122",
+						"Oneview_123"
+						
+												
+						
+					],
+			"preferredBandwidth": 5000,
+			"maximumBandwidth": 8000
+		}
+		
+	]
+
+}

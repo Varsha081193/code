@@ -1,0 +1,5 @@
+iLO_IP,iLO_hostname,iLO_Hostname_Short,Status
+172.18.6.16,,,FAIL
+172.18.6.31,,,FAIL
+172.18.6.32,,,FAIL
+172.18.6.15,,,FAIL

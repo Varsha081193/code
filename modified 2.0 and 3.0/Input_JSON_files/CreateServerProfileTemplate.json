@@ -1,0 +1,79 @@
+{
+    "type":  "ServerProfileTemplateListV1",
+    "members":  [
+                    {
+                        "type": "ServerProfileTemplateV1",
+			"serverProfileDescription": "",
+			"serverHardwareTypeUri": null,
+			"enclosureGroupUri": "",
+			"serialNumberType": "Physical",
+			"macType": "Physical",
+			"wwnType": "Physical",
+			"name": null,
+			"description": "",
+			"affinity": null,
+			"connections": [],
+			"boot": {
+				"manageBoot": true,
+				"order": ["CD",
+				"Floppy",
+				"USB",
+				"HardDisk",
+				"PXE"]
+			},
+			"bootMode": null,
+			"firmware": {
+				"manageFirmware": true,
+				"firmwareBaselineUri": "",
+				"forceInstallFirmware": false,
+				"firmwareInstallType": "FirmwareAndOSDrivers"
+			},
+			"bios": {
+				"manageBios": true,
+				"overriddenSettings": []
+			},
+			"hideUnusedFlexNics": true,
+			"localStorage": {
+				
+			},
+			"sanStorage": null
+                    	},
+                    	{
+                        "type": "ServerProfileTemplateV1",
+			"serverProfileDescription": "",
+			"serverHardwareTypeUri": null,
+			"enclosureGroupUri": "",
+			"serialNumberType": "Physical",
+			"macType": "Physical",
+			"wwnType": "Physical",
+			"name": null,
+			"description": "",
+			"affinity": null,
+			"connections": [],
+			"boot": {
+				"manageBoot": true,
+				"order": ["CD",
+				"Floppy",
+				"USB",
+				"HardDisk",
+				"PXE"]
+			},
+			"bootMode": null,
+			"firmware": {
+				"manageFirmware": false,
+				"firmwareBaselineUri": "",
+				"forceInstallFirmware": false,
+				"firmwareInstallType": "FirmwareAndOSDrivers"
+			},
+			"bios": {
+				"manageBios": true,
+				"overriddenSettings": []
+			},
+			"hideUnusedFlexNics": true,
+			"localStorage": {
+				
+			},
+			"sanStorage": null
+	}
+]
+}

@@ -1,0 +1,3 @@
+name,storagePool,capacity,Provisioning
+FusionTemplateExample,ScaleTestingDomain_CPG_1,8,1
+temp2,CPG-SSD,10,0

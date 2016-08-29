@@ -1,0 +1,32 @@
+{
+	"type": "ApplianceSettings",
+	"Description": "first time settings",
+	"IPv4": {
+		"ipv4Type": "STATIC",
+		"ipv4Subnet": "255.255.255.0",
+		"Ipv4Gateway": "15.218.153.1",
+		"ipv4Addr": "15.218.153.182"
+	},
+	"IPv6": {
+		"ipv6Type": "UNCONFIGURE",
+		"Ipv6Gateway": "",
+		"ipv6Subnet": "",
+		"ipv6Addr": ""
+	},
+	"supportAccess": "yes",
+	"applianceTimeNTP": {
+		"timezone": "",
+		"dateTime": "",
+		"ntpServers": []
+	},
+	"ciApplianceHostname": "ci-005056aaca65.com",
+	"ciApplianceipAddress": "15.218.153.214",
+	"authLoginDomain": "",
+	"DNS": {
+		"nameServers": ["16.110.135.51",
+		"15.218.153.87"],
+		"searchDomains": "",
+		"dynamicDns": "false",
+		"domainName": "ci-005056aaca14.com"
+	}
+}

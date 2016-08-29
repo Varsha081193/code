@@ -1,0 +1,208 @@
+{
+	"type": "logical-interconnect-groupV3",
+	"fcoeSettings": {
+		"fcoeMode": "NotApplicable"
+	},
+	"ethernetSettings": {
+		"type": "EthernetInterconnectSettingsV3",
+		"interconnectType": "Ethernet",
+		"enableIgmpSnooping": false,
+		"igmpIdleTimeoutInterval": 260,
+		"enableFastMacCacheFailover": true,
+		"macRefreshInterval": 5,
+		"enableNetworkLoopProtection": true,
+		"enablePauseFloodProtection": true,
+		"enableRichTLV": false,
+		"dependentResourceUri": null,
+		"name": "defaultEthernetSwitchSettings",
+		"id": "20666a8c-1f9a-4d1f-a68a-724591949002",
+		"state": null,
+		"description": null,
+		"status": null,
+		"eTag": null,
+		"modified": "2016-01-13T10:30:55.577Z",
+		"created": "2016-01-13T10:30:55.576Z",
+		"category": null,
+		"uri": "/ethernetSettings"
+	},
+	"name": "BBB",
+	"state": null,
+	"description": null,
+	"status": null,
+	"eTag": null,
+	"modified": null,
+	"created": null,
+	"category": null,
+	"uri": null,
+	"interconnectMapTemplate": {
+		"interconnectMapEntryTemplates": [{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 1
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 2
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 3
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 4
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 5
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 6
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 7
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		},
+		{
+			"logicalLocation": {
+				"locationEntries": [{
+					"type": "Bay",
+					"relativeValue": 8
+				},
+				{
+					"type": "Enclosure",
+					"relativeValue": 1
+				}]
+			},
+			"logicalDownlinkUri": null,
+			"permittedInterconnectTypeUri": "/rest/interconnect-types/c1f1bc94-8dab-4c25-8b16-388aaeb86e02",
+			"enclosureIndex": 1
+		}]
+	},
+	"uplinkSets": [],
+	"enclosureType": "C7000",
+	"internalNetworkUris": [],
+	"snmpConfiguration": {
+		"type": "snmp-configuration",
+		"readCommunity": "public",
+		"systemContact": "",
+		"trapDestinations": null,
+		"snmpAccess": null,
+		"enabled": true,
+		"name": null,
+		"state": null,
+		"description": null,
+		"status": null,
+		"eTag": null,
+		"modified": null,
+		"created": null,
+		"category": "snmp-configuration",
+		"uri": null
+	},
+	"qosConfiguration": {
+		"activeQosConfig": {
+			"type": "QosConfiguration",
+			"configType": "Passthrough",
+			"uplinkClassificationType": null,
+			"downlinkClassificationType": null,
+			"qosTrafficClassifiers": null,
+			"name": null,
+			"state": null,
+			"description": null,
+			"status": null,
+			"eTag": null,
+			"modified": null,
+			"created": null,
+			"category": "qos-aggregated-configuration",
+			"uri": null
+		},
+		"inactiveFCoEQosConfig": null,
+		"inactiveNonFCoEQosConfig": null,
+		"type": "qos-aggregated-configuration",
+		"name": null,
+		"state": null,
+		"status": null,
+		"eTag": null,
+		"modified": null,
+		"created": null,
+		"category": "qos-aggregated-configuration",
+		"uri": null
+	}
+}

@@ -1,0 +1,12 @@
+Network_name,Type
+ fc1,FC
+eth1,Ethernet
+eth2,Ethernet
+eth3,Ethernet
+FCoENm,FCoE
+Oneview_110,Ethernet
+Oneview_111,Ethernet
+Oneview_112,Ethernet
+Oneview_113,Ethernet
+Oneview_114,Ethernet
+Oneview_115,Ethernet

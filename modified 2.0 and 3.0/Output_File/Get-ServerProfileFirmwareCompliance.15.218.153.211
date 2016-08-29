@@ -1,0 +1,9 @@
+Server_Profile,Expected_Firmware_Version,Present_Firmware_Version,status
+Profile2,2015.10.0,2015.06.0,Out Of Compliance
+profile1,2015.10.0,2015.06.0,Out Of Compliance
+BL2-SP3,2015.10.0,2015.10.0,In Compliance
+BL1-SP2,2015.10.0,2015.10.0,In Compliance
+BL1-SP3,2015.10.0,2015.10.0,In Compliance
+BL1-SP1,2015.10.0,2015.10.0,In Compliance
+BL2-SP1,2015.10.0,2015.10.0,In Compliance
+BL2-SP2,2015.10.0,2015.10.0,In Compliance

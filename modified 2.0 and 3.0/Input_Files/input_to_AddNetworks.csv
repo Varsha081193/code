@@ -1,0 +1,4 @@
+Network_Name,type,vlanId,SmartLink,privateNetwork,ethernetNetworkType,purpose,linkStabilityTime,autoLoginRedistribution,fabricType
+eth1,Ethernet,400,FALSE,FALSE,Tagged,General,null,null,null
+fc1,FC,null,null,null,null,null,30,TRUE,FabricAttach
+FCoENew,FCoE,400,null,null,null,null,null,null,null

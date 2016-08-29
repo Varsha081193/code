@@ -1,0 +1,6 @@
+hostname,power_state
+172.18.6.15,On
+172.18.6.16,On
+172.18.6.31,Off
+172.18.6.32,Off
+"Encl1, bay 1",On
